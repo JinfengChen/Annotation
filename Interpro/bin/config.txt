@@ -1,0 +1,3 @@
+iprscan=/opt/iprscan/4.8/bin/iprscan
+fastaDeal=/rhome/cjinfeng/software/bin/fastaDeal.pl 
+qsub_sge=/rhome/cjinfeng/software/bin/qsub-pbs.pl 
